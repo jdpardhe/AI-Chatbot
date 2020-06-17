@@ -7,7 +7,8 @@ Currently, the chatbot uses two levels of neurons, with 8 neurons per level.
 
 Tested on Python 3.6.
 
-In run, make sure you have the following installed:
+To run, make sure you have the following installed:
+
 Python 3.6 (https://www.python.org/downloads/)
 Anaconda for Python 3.7 (https://www.anaconda.com/products/individual)
 ntlk        (pip install ntlk)
